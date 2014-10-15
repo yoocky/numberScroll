@@ -3,7 +3,7 @@ numberScroll
 
  * Similar to the digital tube rolling javascript animation plug-in 
  /**
- * @彩票项目大奖专题页累计获奖金额数字墙（numberScroll）
+ * @数字墙（numberScroll）
  * @author zhoumengyan zhoumengyan@360.cn
  * @version 0.0.1 
  * example:
